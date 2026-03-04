@@ -1,0 +1,97 @@
+# 🎬 Anime Stream Plum
+
+Anime Stream Plum is a lightweight and responsive anime streaming web application built with modern web technologies. The site provides users with a smooth, fast, and user-friendly experience for browsing and watching anime content online.
+
+Live Demo: https://anime-stream-plum.vercel.app/
+
+---
+
+## 🚀 Features
+
+✨ **Responsive Design** – Works great on desktop, tablet, and mobile screens  
+📺 **Fast Streaming Interface** – Browse and watch anime quickly and fluidly  
+🔎 **Search Support** – Find shows by title  
+📚 **Clean and Minimal UI** – Simple layout focused on content  
+🔧 **Built with Web Standards** – Easy to extend and maintain  
+
+---
+
+## 🛠 Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5      | Markup |
+| CSS3       | Styling |
+| JavaScript | Interactivity |
+| Vercel     | Deployment |
+
+*You can replace / update these if your stack includes frameworks like React, Next.js, Tailwind, etc.*
+
+---
+
+## 📌 Project Structure
+
+
+/
+├── public/ # Static assets (images, icons, etc.)
+├── src/ # Source code
+│ ├── components/ # UI components
+│ ├── pages/ # Page views
+│ ├── styles/ # CSS / styles
+│ └── utils/ # Helpers/utilities
+├── .gitignore
+├── README.md
+└── package.json
+
+
+---
+
+## 🔍 Features
+
+✔ Browse anime categories  
+✔ Quick search by anime title  
+✔ Episode navigation  
+✔ Responsive layout  
+✔ Clean UI  
+
+*Add features like favorites, watch list, API filtering, etc. if available.*
+
+---
+
+## 📥 Installation
+
+To run locally:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/anime-stream-plum.git
+
+Navigate to project folder:
+
+cd anime-stream-plum
+
+Install dependencies:
+
+npm install
+
+Start development server:
+
+npm run dev
+
+Open the browser:
+
+http://localhost:3000
+📦 Deployment
+
+This project is deployed on Vercel — to deploy your own:
+
+Push to GitHub
+
+Connect the repo to Vercel
+
+Deploy with zero config
+
+💡 Contributing
+
+Contributions are welcome!
+Feel free to open issues or submit pull requests.
